@@ -1,4 +1,4 @@
-package org.HashLinkedSetUserString;
+package org.HashLinked;
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;
